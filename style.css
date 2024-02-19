@@ -16,6 +16,7 @@
 body{
     background-color: rgb(13, 146, 118);
 }
+
 img{
     border-radius: 50px;
     border: 10px solid rgb(255, 246, 233);
@@ -49,7 +50,7 @@ a{
 
 @media(max-width:600px){
     .container{
-        width: 90%;
+        width: 85%;
         height: 100%;
         flex-direction: column;
         justify-content: space-evenly;
